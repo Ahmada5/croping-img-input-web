@@ -1,0 +1,2 @@
+TESTING CROP AREA
+ini digunakan sebagai testing mencari area crop
